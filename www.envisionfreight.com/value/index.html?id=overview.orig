@@ -1,0 +1,129 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - The Value of Freight: Overview of the U.S. Freight Transportation System
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/value/default.aspx">The Value of Freight</a>: Overview of the U.S. Freight Transportation System</h1>
+      
+              <p><a href="http://www.bts.gov/publications/national_transportation_statistics/">In 2008, 4.5 million people were employed in for-hire transportation and transportation-related industries in the U.S., a little over 3 percent of total U.S. employment.  Trucking was the largest employer within the for-hire transportation section with almost 1.4 million employed.  The railroad industry employed 230,000, and water transportation employed 65,000.  Another key component of logistics services and supply chains, warehousing and storage, employed 673,000.</a>   <a href="http://factfinder.census.gov/servlet/IBQTable?_bm=y&-geo_id=D&-ds_name=EC0748A1&-_lang=en">Latest available data (2007) show that there were almost 220,000 employer establishments in the transportation and warehousing sector of the U.S. economy with revenues of almost $640 billion and annual payrolls of over $173 billion.  In addition, there were over 1 million non-employer establishments with revenues of almost $67 billion.</a></p> 
+
+        <p>A study prepared for Federal Highway Administration (FHWA) reports that transportation costs accounted for 63 percent of 2002 logistic costs, inventory carrying costs (including warehousing, interest costs, taxes, obsolescence, depreciation, and insurance) accounted for 33 percent, and administration accounted for 4 percent.  In 2002, transportation costs were comprised of intercity truck (50 percent), local truck (27 percent), railroad (6 percent), logistics administration (6 percent), water (4 percent), air (4 percent), oil pipelines (1 percent), and shipper-related costs (1 percent).  Relative to the overall economy, total logistics costs were equal to almost 9 percent of U.S. GDP in 2002.<a href="#fn1">[1]</a>   An update of these figures indicates total <a href="http://mhlnews.com/distribution/us_logistics_costs_0626/index.html">logistics costs climbed to 10.1 percent of GDP in 2007</a> and <a href="http://mhlnews.com/logisticstoday/operations_strategy/news/state-of-logistics-industry-soft-rebounding-0610/">fell to 7.7 percent of GDP in 2009</a>.</p> 
+
+        <p>The U.S. surface freight transportation network includes 4,016,741 miles of highways, 94,942 miles of Class I freight railroad tracks, 46,474 miles of regional and shortline railroad tracks, and 26,000 miles of navigable inland waterways.<a href="#fn2">[2]</a>   Other important components of the freight transportation network include air freight and pipelines.</p> 
+
+        <p>An illustration of importance of U.S. freight transportation corridors and transportation modes is found in Figure 2, which shows freight tonnage on U.S. highways, railroads, and inland waterways.   Figure 2 illustrates two key features of today's transportation network.  First, the figure illustrates the fact that supply chains extend across the country and into other parts of the world.  Key ports such as Los Angeles/Long Beach and New York/New Jersey are gateways to foreign trade and are the origins and destinations of substantial shipments throughout the United States.  Second, the figure shows that a substantial amount of freight is transported along a handful of key corridors.  In addition to the rail traffic coming out of the Power River Basin in Wyoming and water traffic along the Mississippi and Ohio rivers, there are dense corridors of highway traffic throughout the eastern part of the United States and along the West Coast.  Figure 2 also illustrates the importance of the Chicago are as a key hub of U.S. freight transportation.</p>
+
+        <p class="figure">Figure 2. </p> 
+
+        <img width="550px" height="425px" src="http://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/images/hi_res_jpg/tonhwyrrww2007.jpg" alt="Tonnage on highways, railroads, and inland waterways, 2007"> 
+
+        <p class="source">Source: http://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/images/hi_res_jpg/tonhwyrrww2007.jpg</p> 
+
+
+
+        <p>In terms of volume of freight hauled by transportation mode, Figure 3 illustrates the growing importance of truck and rail relative to other modes of freight transportation, as their shares of domestic ton-miles of freight increased significantly between 1980 and 2007.  Associated with the increased proportions of rail and truck ton-miles were significant pieces of legislation that largely deregulated these industries: the Staggers Rail Act of 1980 and the Motor Carrier Act of 1980.  Intermodal shipments are also growing in importance, particularly truck and rail, in terms of ton-miles, and truck and air for higher-value and/or time-sensitive shipments (e.g., UPS, FedEx).</p>
+
+         
+
+        <p class="figure">Figure 3. Shares of Domestic Ton-Miles by Mode, 1980 and 2007</p>
+
+        <img src="/images/Value_of_Freight3.gif" alt="Shipments by Truck and Rail have increased, while water and pipeline freight has decreased.">
+
+        <p class="source">Source: </i>National Transportation Statistics, 2010</i>, Bureau of Transportation Statistics, U.S. Department of Transportation, Table 1-46b.</p>  
+
+
+
+        <p>The <a href="http://www.bts.gov/publications/commodity_flow_survey/final_tables_december_2009/html/table_01b.html">U.S. Commodity Flow Survey (CFS)</a>, produced in partnership between the Bureau of Transportation Statistics and the Census Bureau, provides a comparison of the value of shipments and the weight and distance of shipments (e.g., ton-miles) by various transportation modes.   For example, while rail accounted for about 40 percent of CFS ton-miles, rail shipments comprised only about 4 percent of CFS shipment value in 2007.  These figures reflect the fact that rail shipments largely consist of lower-value commodities that are shipped relatively longer distances (e.g., coal).  In contrast, trucking accounted for 40 percent of CFS ton-miles and over 70 percent of CFS shipment value in 2007.  Intermodal shipments accounted for about 12 percent of CFS ton-miles and 16 percent of CFS shipment value in 2007.</p> 
+
+        <p>
+
+        <a name="fn1">[1] MarcoSys Research and Technology, <i>Logistics Costs and U.S. Gross Domestic Product</i>, August 25, 2005, pp. 7-8.</a><br>
+
+        <a name="fn2">[2] <i>National Transportation Statistics, 2010,</i> Bureau of Transportation Statistics, U.S. Department of Transportation, Table 2-1-1.</a><br>
+
+
+        </p>
+
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

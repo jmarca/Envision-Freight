@@ -1,0 +1,106 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Fact Sheets: Buffer Zones
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/factsheets/default.aspx">Fact Sheets</a>: Buffer Zones</h1>
+      
+      <p>One element that can be used to reduce conflicts that arise because of proximity to freight facilities and corridors is the use of buffer zones.  Buffer zones are areas of land that are often landscaped to protect a group from a nuisance type activity, such as noise.  Environmental Justice communities have also advocated the user of buffer zones to separate out incompatible land uses that are adjacent to their communities.  They are also excellent tools that can be used to remedy pollution problems from freight facilities, especially for land uses that have elderly, youth, the sick or the disabled within the vicinity.  Buffer zones are usually not less than fifty feet in width.</p> 
+
+<p>There are two ways that buffer zones can be created.</p>
+<ol>
+<li>Zoning ordinance that requires this where residential development is proposed in close proximity to freight</li>
+<li>Freight facility creates a buffer zone within their facility/corridor.</li>
+</ol> 
+
+<p>Across the U.S., many airports have created buffer zones, often because of noise complaints, through a program of purchase and relocation of properties.  Some deep water port facilities have also begun to create buffer zones.</p>  
+
+<p>The port of the City of Panama in Florida for example, has some encroachment issues from significant residential development that has existed on the east side of the port for a long time.  The port has had a policy of buying out homes on the eastern side and demolishing houses in order to create a buffer zone.  This process has been going on for at least 10 years.  The houses were purchased one at the time.  Some were freestanding structures and some were mobile homes.  The policy started with the intention of using these properties for future port expansion.  However as the port continued to develop, it became clear that the highest value was to provide a buffer so that future problems with land-use conflicts would not arise.</p>
+ 
+<p>A different situation occurs on the west side of the port. On the west side, there are more expensive homes and there has been a concern in recent years that high-priced condos will be built that might interfere with port operations.  For this reason the port is not purchasing property on the west side.  Rather, the port has resisted offers to develop nearby property for residential purposes and has tried to persuade the city to not build excessively in this area.  Some of this land is zoned commercial and some is zoned for multi-family residential.</p>  
+
+<p>Conclusions to be drawn from the active buffer programs around airport facilities, is that it is typically an extremely expensive proposition and is not a recommended strategy tool to continue ad-infinitum.  It is recommended that buffer zones be created in the planning and zoning process, and that residential proximity to freight facilities should be actively discouraged.</p> 
+
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

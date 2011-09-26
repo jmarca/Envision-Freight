@@ -1,0 +1,292 @@
+/*****************************************************************************
+* The body style
+******************************************************************************/
+
+html, body {
+	background: #3B5B63;
+	height: 100%;
+	min-height: 100px;
+}
+
+/*****************************************************************************
+* Default page element styles
+******************************************************************************/
+
+p {
+  font-size: 11pt;
+  font-family: Arial;
+}
+
+h1 {
+	font-family: Arial; /* Verdana; */
+	font-size: 18pt;
+	/*font-weight: bold;*/
+	/* color: #0C2577; */
+	margin: 0;
+}
+
+h1 a 
+{
+	color:Black;
+}
+
+h2 {
+	font-family: Arial; /* Verdana; */
+	font-size: 12pt;
+	font-weight: bold;
+	color: #7494AD;
+}
+
+img	{
+	border: 0px;
+	vertical-align: top;
+}
+
+ul {
+  margin: 0 0 0 9px;
+  padding: 0 0 0 9px;
+}
+
+ul li {
+	font-size: 11pt;
+	/* font-family: Georgia; */
+	font-family: Arial;
+	line-height: 1em;
+	margin: 3px 0 3px 0;
+}
+
+ul ul {
+	list-style-image: url('envisionfreight.css');
+}
+
+ol { list-style-type: decimal; font-size: 11pt; font-family: Arial;}
+ol ol { list-style-type: lower-alpha; font-size: 11pt; font-family: Arial; }
+ol ol ol { list-style-type: lower-roman; font-size: 11pt; font-family: Arial; }
+
+/*****************************************************************************
+* Page layout div specs
+******************************************************************************/
+div#wrap {
+	margin: 10px auto;
+	width: 820px;
+
+	padding: 10px;
+	height:auto !important; /* real browsers */
+	height: 100%;
+	min-height: 100%;
+  
+	background-color: white;
+	border: 1px solid #0C2577;
+}
+
+div#header {
+  height:163px;
+  position:relative;
+  background-color:white;
+}
+
+div#nav {
+	height: 20px;
+  position:absolute;
+  right:0;
+  bottom:7px;
+}
+
+div#nav ul {
+  margin: 0;
+  list-style: none;
+}
+
+div#nav ul li {
+  margin: 4px 0px 4px 6px;
+  padding: 2px 6px;
+  height: 20px;
+  display: inline;
+  float: right;
+  line-height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  background-color: #3B5B63;
+}
+
+div#nav ul li:hover {
+  color: white;
+  background-color: #0C2577;
+}
+
+div#nav ul li a {
+  font-family: Arial;
+  font-size: 11pt;
+  color:inherit;
+  font-weight: bold;
+  text-decoration: none
+}
+
+/*****************************************************************************
+* "Middle" style (Left-side menu and content)
+******************************************************************************/
+div#middle {
+	height:auto !important; /* real browsers */
+	height: 100%;
+	min-height: 100%;
+  background-color:#919FAA;
+  /*border: 3px solid blue;  */
+}
+
+div.sidebar 
+{
+	margin: 15px 0px 15px 15px;
+	border: solid 2px black;
+	padding: 5px;
+	background-color:#B5D3E1;
+	width: 250px;
+	float: right;
+}
+
+div.sidebar_left
+{
+	margin: 15px 15px 15px 0px;
+	border: solid 2px black;
+	padding: 5px;
+	background-color:#B5D3E1;
+	width: 250px;
+	float: left;
+}
+
+div.sidebar p { margin: 0; }
+div.sidebar_left p { margin: 0; }
+
+p.figure { text-align:center; font-weight:bold; margin-bottom:2px; }
+p.source { text-align:center; font-size:small; font-style:italic; margin-top:2px; }
+p.quote { font-style:italic; margin:10px 20px 10px 20px; }
+
+/*****************************************************************************
+* "Left" styles (Left-side menu titles and lists)
+******************************************************************************/
+div#leftmenu {
+	float: left;  
+	width: 150px; /* 223px; */
+	height: auto !important;
+	height: 100%;
+	min-height: 100%;
+	background-color: white;
+	/* border-bottom: 3px solid red; */ 
+}
+
+div#leftmenu a { text-decoration: none; }
+
+
+div#leftmenu h1 {
+  margin: 0px 0px 4px 0px;
+  padding: 5px 10px 5px 10px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 16pt;
+	background-color: rgb(198,181,156);
+	color: rgb(41,41,33);
+	line-height: 20px; 
+	/* text-align: center; */
+}
+div#leftmenu h1:hover {
+  background-color: rgb(82,82,66);
+  color:White;
+}
+
+div#leftmenu h2 {
+  margin: 0px 0px 2px 0px;
+  padding: 4px 4px 4px 16px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12pt;
+	background-color: #70B244;
+	color: white;
+	line-height: 20px; 
+	/* text-align: center; */
+}
+div#leftmenu h2:hover {
+  background-color: #008200;
+}
+
+
+div#leftmenu div#quote {
+  padding: 15px 5px;
+  background-color: #919FAA;
+}
+
+div#leftmenu div#quote p {
+  font-style: italic;
+  color: white;
+}
+
+/*****************************************************************************
+* "Content" styles (main section of page)
+******************************************************************************/
+div#content {
+  float: right;
+  width: 614px; /* was 542px; */
+  padding: 0px 17px;
+  padding-left: 39px;
+  
+  height:auto !important; /* real browsers */ 
+	height: 100%; /* 433px; */
+	min-height: 557px; /* 100%; */
+	background-color: white;
+  /* border: 1px solid green; */
+  /* border-bottom: 3px solid green; */
+}
+
+div#content ul li h2 {
+  font:Arial 11pt bold;
+  color: #0C2577;
+}
+
+div#content ul li h2 a {
+  text-decoration: none;
+  color: #0C2577;
+}
+
+div#content p {
+  font-family: Arial;
+}
+
+div#content img 
+{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#content table
+{
+	margin-left:auto;
+	margin-right:auto;
+	border:2px solid black;
+}
+
+div#content table tr td
+{
+	margin-left:auto;
+	margin-right:auto;
+	border:1px dotted grey;
+	padding:8px;
+}
+
+
+
+
+/*****************************************************************************
+* "Footer" styles (far bottom of page
+******************************************************************************/
+div#footer {
+  padding-top: 10px; 
+  clear: both;
+}
+
+div#footer p 
+{
+	font-family: Arial;
+	font-size: 9pt;
+	text-align: right;
+}
+

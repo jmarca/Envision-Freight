@@ -1,0 +1,179 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Fact Sheets: Construction Requirements For Noise Reduction
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/factsheets/default.aspx">Fact Sheets</a>: Construction Requirements For Noise Reduction</h1>
+      
+      <p>Homes can be constructed to
+withstand noise and vibration and achieve a reduction in noise level to
+acceptable levels.   In many instances,
+airport land-use plans have developed construction requirements to achieve
+sound level reduction, and have produced guidebooks and other useful
+instructional material to guide the city as they issue development permits.   </p>
+
+<p>In 2010, the <a href="http://www.iccsafe.org/Pages/default.aspx">International Code Council</a>
+(ICC) produced a new Guideline for Acoustics. 
+The guide provides two grades of acoustical performance: acceptable and
+preferred performance levels for air-borne and structure-borne noise. Both
+recommendations exceed the current code minimum.  Specific design and evaluation techniques for
+managing the degradation of sound-rated material that is installed in buildings
+are also provided in this guideline.</p>
+
+<p>Some states also have their own
+set of building codes for example, <a href="http://www.bsc.ca.gov/title_24/t24_2001tried.htm">California</a>,
+<a href="http://www.floridabuilding.org/c/default.aspx">Florida</a>,
+<a href="http://www.mass.gov/?pageID=eopsterminal&L=4&L0=Home&L1=Consumer+Protection+%26+Business+Licensing&L2=License+Type+by+Business+Area&L3=Construction+Supervisor+License&sid=Eeops&b=terminalcontent&f=dps_bbrs_building_code&csid=Eeops">Massachusetts</a>,
+<a href="http://www.michigan.gov/dleg/0,1607,7-154-10575---,00.html">Michigan</a>,
+and <a href="http://www.dos.state.ny.us/code/title19.htm">New York</a>.
+Florida is currently <a href="http://www.dca.state.fl.us/fbc/thecode/1_code_modifications.htm">updating</a>
+its building code, and <a href="http://www.michigan.gov/documents/dleg/dleg_bcc_2009_009lg_building_residential_code_rules_337947_7.pdf">Michigan</a>
+will have new rules take effect March 9, 2011. 
+</p>
+
+<div class="sidebar_left">
+  <p>Sound
+    Transmission Class is a single number rating of the sound transmission loss
+    (reduction of sound energy passing through building material) of a wall, or
+    structure, which accounts for the variation in noise transmission loss with
+    frequency.</p>
+</div>
+    
+<p><a href="/factsheets/pdf/ScottMidAmericaLandUseStudy.pdf">Scott Air Force Base and Mid-America St.
+Louis Airport conducted a joint land-use study</a> released in  August 2008 that developed a series of tables
+(from material that was prepared for Wright-Patterson Air Force Base) to
+achieve specific sound noise level reduction through the use of Sound
+Transmission Class types of building construction elements.</p>
+
+<p>Chicago’s <a href="http://www.ohare.com/cnrc/ohare/ohareresidential.htm">O’Hare
+International Airport</a> also has a useful pdf guide on construction materials
+to reduce noise.   Its website provides
+information and resources for homeowners and also has a <a href="http://www.ohare.com/cnrc/ohare/ORDSoundInsulating2010.02.pdf.">sound
+insulating brochure</a> produced in 2010. 
+The guidebook was developed as a response to the many requests
+that the city had received, and was created by the City’s Department of
+Aviation, Airport Owners Representatives, City’s consultant to the Residential
+Sound Insulation Program and the O’Hare Noise Compatibility Commissions
+Committee.  The brochure provides
+detailed schematics of the types of mitigation that can be utilized to reduce
+noise.  </p>
+
+<p>Building a
+new home with additional sound attenuation is more expensive.  However, there are also other design
+considerations that can also be utilized that have little to no cost associated
+with them.  For example, locating
+bedrooms away from noise sources, and positioning less-used rooms, such as the
+bathroom and closets, between the noise source and the noise sensitive rooms.   The Scott
+Air Force/Base Mid-America Airport land-use study estimated that the cost of constructing a sound-
+attenuated home in proximity to their facility would be between $5,000
+and $10,000 to achieve a reduction of noise of 25 decibels. <a href="/factsheets/pdf/ConstructionRequirements.pdf">Examples of construction
+requirements can be found
+here.</a></p>
+
+<p>The benefits of constructing a
+home with sound/vibration attenuation are multiple.   Benefits include the reduction of potential
+community/freight group conflicts and the improved quality of life for
+residents.</p>
+
+<p>Another important element that aligns
+with construction techniques is the use of buffer areas between the freight
+activity/corridor and the incompatible land use.    Research conducted by Canada’s Railway
+Proximity Website, the Center for Transportation Research at The University of
+Texas at Austin, and California’s Air 
+Resources Board have developed <a href="/factsheets/pdf/BufferDistanceTables.pdf">tables of recommended buffer distances
+between certain land uses and freight activity</a>.</p>
+
+<h2>Other Useful Sites</h2>
+
+<p>The <a href="http://www.nahb.org/page.aspx/category/sectionID=223">National
+Association of Home Builders</a> is also a good resource for construction codes
+and standards.  <a href="http://www.nyc.gov/html/dob/html/reference/code_internet.shtml">New York
+City’s</a> Building Code created in 1968 is a good resource.  The <a
+href="http://www.epa.gov/radon/rrnc/association_contacts.html">EPA</a> also has
+a list of State Building Code Associations.   
+The <a href="http://www.energycodes.gov/states/">U.S. Department of Energy</a> also has
+useful links to state energy codes which often as a byproduct improve noise
+reduction. </p>
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

@@ -1,0 +1,141 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Fact Sheets: Canada's Proximity Issues Website
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/factsheets/default.aspx">Fact Sheets</a>: Canada's Proximity Issues Website</h1>
+      
+      <div class="sidebar">
+  <p>Since the initiative began and the website was developed, Ontario at the Provincial level has adopted guidelines and processes in its programs and procedures for planning based upon the output of this initiative.  British Columbia has also used the protocols and guidelines for issues it has dealt with regarding overpasses and dealing with communities. </p>
+</div>
+<p>In 2003 the Railway Association of Canada (RAC), in collaboration with the Federation of Canadian Municipalities (FCM), and the Canadian railroads created an initiative to develop common approaches to the prevention and resolution of issues that arise when people live and work in close proximity to railway operations.  The initiative had four major goals:</p>
+<ol>
+<li>Effectively work together</li>
+<li>Understand one another</li> 
+<li>Develop a consistent dispute resolution model for handling complaints by localities and communities regarding freight railroad activities and</li> 
+<li>Produce materials for local jurisdictions and the public regarding freight railroad activities and compatible land uses.</li> 
+</ol>
+<p>As part of this initiative, the <a href="http://www.proximityissues.ca/">Proximity Issues Website was created at www.proximityissues.ca</a>. 
+
+<h2>History</h2>
+
+<p>In 1996 the Canada Transportation Act came into force and the Canadian Transportation Agency (CTA)—equivalent to the Surface Transportation Board in the U.S.—began to handle disputes regarding noise and vibration under the combined §95 and 37 of the Act.  In 1999 Canadian National Railroad (CN) filed suit after the CTA had issued orders against the railroad(s) regarding noise complaints from three different parties.  CN argued that the CTA did not have jurisdiction to deal with complaints concerning noise, smoke and vibrations resulting from duly authorized railway operations.  On appeal the Federal Court of Appeal held that CTA did not have jurisdiction over such issues.  As such, it was deemed that no specific provisions in the CTA or in any other legislation existed which set out how the Agency or any other government organization was to regulate issues concerning railway operations other than those pertaining to rail service and safety.</p>  
+
+<p>As a consequence of this decision, the FCM, the RAC and the railroads decided that it was necessary to work together more efficiently to understand one another, and to develop a consistent dispute resolution model to apply on such issues.</p>    
+
+<div class="sidebar_left">
+  <p>According to staffers from the RAC, the groups reviewed activities in other countries.  Australia provided a model for this process, and specifically the DOT in Queensland and the City of Brisbane provided materials and a model to develop the whole process.</p>
+</div>
+<p>In 2003 a Memorandum of Understanding (MOU) was signed that outlined the goals, objectives and terms under which the initiative would move forward and spelled out basic parameters that would be accomplished by the groups.  The Canadian Association of Municipal Administrators also provides ongoing professional advice in an advisory capacity.   The MOU was renewed in 2007.  The MOU’s and the Appendices are the framework document that outlines goals and objectives of the initiative/association.</p>
+
+<div class="sidebar">
+  <p>To enable better communication and understanding, the FCM and RAC have developed a Community-Rail Proximity Initiative and Steering Committee. Under the MOU, the parties will jointly work through the Committee to develop and implement a strategy to reduce misunderstanding and avoid unnecessary conflict arising from railway-community proximity. Areas for action include: developing commonly understood proximity guidelines; improving awareness among all stakeholders regarding the need for effective planning and management; and developing a dispute resolution protocol to guide concerned parties when issues emerge.</p>
+</div>
+<p>Under the terms of the MOU(s), a steering committee was created to manage, direct, and implement the mandate of the MOU.  Three sub-committees with co-chairs from the railroad companies and FCM were created.  The committees were staffed with approximately a dozen other members evenly split with representatives from the railroads (e.g. government affairs, real estate, policy, and network organization) and members of the FCM (deputy mayors, mayors, planners).   The three sub-committees are:</p>
+<ol>
+<li>Communication, which was tasked with controlling outreach, awareness, and education both within the railroad industry and provinces and municipalities as well as with the general public.  This group created the website and is responsible for completing the annual reports and surveys that are periodically administered.</li> 
+<li>Dispute Resolution, which was tasked with creating a process and developing steps to be used for mediation (which was also offered for free originally).   This task has been completed.  This group is now looking at many other items, and also tracks the railroads’ 1-800 numbers to see how complaints are changing over time.  As an example, five years ago the main complaints were about noise.  This past year, complaints mainly focused on railroad crossings.</li> 
+<li>Guidelines, which is tasked with accumulating all the existing items (laws, policies, ordinances, procedures etc,) and to develop any new items that would facilitate buy-in from the various municipal and industry stakeholders.  This group developed the standards that can be found on the website for new developments.   It is now looking at developing standards for existing development, including how to handle infill, and commercial and residential land uses.</li>
+</ol> 
+
+<h2>Website Development</h2>
+
+<p>According to RAC staffers, the website has undergone two restructures.   When the website was originally developed, it was created purely as an inventory.  Visitors were not channeled to any specific areas that they wanted to get information about, nor were the provided with a brief explanation of what the underlying law, rules, or policies were in specific subject-matter areas.      This created some confusion for users, and the sub-committee decided to review the site’s functionality and restructure it.</p>  
+
+<p>The website was revamped so that now the first item of navigation directs the user to “pick an issue.”  For example, “whistles.”  This takes you to any laws that govern the issue and any best practices or other useful information.  The second area of navigation on the site is called “Atlas.”  This provides maps of all the railroads in Canada and contact numbers and information for the public to utilize.</p>   
+
+<p>Currently, the website is primarily focused on providing information to the general public in order to avoid complaints or resolve them as best as they possibly can to avoid potential conflict.  According to the RAC, the filtering process has helped ensure the success of the initiative and the website.</p> 
+
+<div class="sidebar_left">
+  <p>Staffers at RAC noted reception to the initiative was initially cautious, but that now they are welcomed readily and that it has had a dramatic impact in changing attitudes. </p>
+</div>
+
+<p>The proximity initiative now in its seventh year is continuing to develop new tools, review issues, and continue its educational and outreach mission.  For example, they are currently reviewing noise and vibration measurement to develop specific guidelines.  They are also reviewing different types of materials for mitigation—for example, the use of a glass sound wall in Montreal, and different types of green-walls.  The initiative also continues to conduct extensive outreach in communities, giving presentations to cities and local communities to keep the public educated about railway proximity issues.</p> 
+
+<h2>Other Resources</h2>
+
+<p>As a consequence of the Proximity Initiative the Canadian National and Canadian Pacific Railroads developed <a href="/factsheets/pdf/RailLandUseGuidelines.pdf">Rail Land Use Guidelines</a>.  The City of Edmonton also undertook a major initiative in its zoning procedure to amend its code including a major commercial corridor overlay ordinance. See <a href="/factsheets/pdf/Edmonton1.pdf">here</a>, <a href="/factsheets/pdf/Edmonton2.pdf">here</a>, and <a href="/factsheets/pdf/Edmonton3.pdf">here</a></p> 
+
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

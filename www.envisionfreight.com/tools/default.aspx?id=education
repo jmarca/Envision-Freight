@@ -1,0 +1,120 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Tools: Education
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <a href="/tools/default.aspx?id=planning">
+        <h2>Long-Range Planning</h2>
+      </a>
+      <a href="/tools/default.aspx?id=zoning">
+        <h2>Zoning and Design</h2>
+      </a>
+      <a href="/tools/default.aspx?id=mitigation">
+        <h2>Mitigation</h2>
+      </a>
+      <a href="/tools/default.aspx?id=education">
+        <h2>Education and Outreach</h2>
+      </a>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/tools/default.aspx">Tools</a>: Education</h1>
+      
+      <p>Education about freight transportation issues can take on many aspects.  The aspects of freight transportation issues that are relevant for the NCFRP 24 project include:</p>
+<ul>
+<li>The value of freight transportation</li>
+<li>Planning for freight facilities and corridors</li>
+<li>How to prevent or resolve conflicts between freight and other, often incompatible, land uses</li>
+</ul>
+<p>Lack of education or information on these issues is at the root of many of the conflicts between freight entities and other land uses.  While education on these issues can sometime be part of a university curriculum for planning students, it is often accomplished in the “real world” through various means that involve communication and interaction between interested stakeholders.  Channels of education/communication include:</p>
+<ul>
+<li>Education in planning schools regarding freight transportation issues</li>
+<li>Planning agency-sponsored freight task forces and roundtables</li>
+<li>Community roundtables and working groups</li>
+<li>Outreach efforts by freight entities</li>
+<li>Available previous research</li>
+</ul>
+<p>The NCFRP 24 research team has noted that most university planning curriculum does not include freight in their masters programs for community and regional planning.  While some students might be able to take a multi-disciplinary class on multimodal freight issues or multimodal freight planning classes that are often taught in the transportation engineering programs, these types of multidisciplinary classes&mdash;which are on the rise&mdash;are not always offered to students from different disciplines.  The inclusion of freight issues in university planning curriculum would go a long way towards overcoming many of the potential or actual conflicts between freight and other land uses.</p>   
+<p>Beyond formal education, most state DOTs will have a freight plan, and some have created freight task forces and freight roundtables to collect stakeholder input as they develop freight plans.   Ports and airports are well known for their roundtables and community working groups which are often put together to solve problems and make recommendations where federal grant monies are applied to mitigate for noise and vibration for example.</p>  
+<p>Many of these types of groups produce excellent educational resource materials to better understand and plan for freight.  The <a href="http://ops.fhwa.dot.gov/freight/">Federal Highway Administration Office of Freight Management and Operations</a> also had an excellent site for <a href="http://ops.fhwa.dot.gov/freight/FPD/Docs/sector.htm">Freight Planning</a>, which includes items for freight professional development that a newcomer to freight planning can utilize. These include workshops, the <a href="http://www.fhwa.dot.gov/freightplanning/talking.htm">Talking Freight</a> net-conference seminar series and National Highway Institute Courses such as <a href="http://www.ops.fhwa.dot.gov/freight/fpd/Docs/fpdintegrate/fpdintegrate.htm">"Integrating Freight in the Transportation Planning Process."</a></p>  
+<p>Other groups, such as California’s Department of the Environment’s Air Resources Board have also conducted programs to mitigate for pollution around ports and have developed inventories and mitigation plans that provide educational material useful in understanding freight impacts.  The <a href="/tools/pdf/Health_Impact_Assessment_for_Rail_Yards.pdf"">health risk assessments that they have undertaken as part of their Rail Yard Emission Plan</a> are publicly available.</p>
+<p>Freight entities can also play a role in the education process in an effort to avoid or resolve conflicts.  The research performed for NCFRP 24 offered a number of examples where outreach or education efforts by freight entities were valuable.  For example, in the <a href="/tools/pdf/Case_Study_SIRR.pdf">case of the Staten Island Railroad</a> resumption of service, CSX conducted a significant public outreach campaign to notify the public about the resumed service and also went to schools to make sure that children did not play in the right of way.  As another example, the freight groups involved in the <a href="/tools/pdf/ARC_Freight_Plan.pdf">Atlanta Regional Freight Mobility Plan</a> provided ranking scores for funding prioritization on projects that were placed into the Transportation Improvement Program submitted to Georgia’s DOT.</p>  
+<p>Specific strategies for improving communication between freight and land use stakeholders would include the formation a standing planning committees and also the regular exchange of internal planning materials and decisions, redacted as necessary.  Private sector groups including local chambers of commerce can play an important role in keeping freight issues on the agenda and ensuring buy-in from the business community when a freight-related project is proposed.  Improving communication through various levels of government is also required and must be a two-way channel.</p>
+<p>Resources for <a href="/tools/pdf/Research_Materials.doc">previous research</a> and <a href="/tools/pdf/Freight_Study_Resource_Tables.doc">freight studies reviewed during this project</a>, as well as <a href="/tools/pdf/Useful_Links.doc">other useful links</a>, have been compiled.</p>
+
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

@@ -1,0 +1,149 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Fact Sheets: Examples of Good Comprehensive Planning
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/factsheets/default.aspx">Fact Sheets</a>: Examples of Good Comprehensive Planning</h1>
+      
+      <p>Most jurisdictions across the U.S. conduct
+comprehensive planning activities. New York, Oregon, Florida, Washington, Wisconsin, and
+California
+are well known for the innovative approaches to land use and planning, and for
+the depth of their comprehensive plans. Across the U.S. some jurisdictions are more
+proactive than others in assessing how planned development activities will
+impact the community. </p>
+
+<h2>Comprehensive Planning & Noise Abatement</h2>
+
+<p>California requires comprehensive
+planning (CA code 65103) by cities and counties that must include an assessment
+of how the zoning activities—if the plan is built-out—will create noise or
+vibration. Under California’s
+Government Code (Section 65300-65303.4), the state requires that each planning
+agency shall prepare and the legislative body of each county and city shall
+adopt a comprehensive, long-term general plan for the physical development of
+the county or city. Section 65302 notes that the general plan shall consist of
+and include a land use element that includes standards of population and
+building intensity as well as zoning ordinances to implement its provisions. California’s Regional
+Planning law notes that the state has a positive interest in the preparation
+and maintenance of a long-term general plan for the physical development of
+each of the state’s urban areas. </p>
+
+<p>As an example, Solano County, California,
+in its <a href="http://solanocountygeneralplan.net/>2008 General Plan Environmental Impact Report</a>, (<a
+href="http://solanocountygeneralplan.net/EIR_04-18-08/9_Section%204.3%20-%20Noise.pdf">Chapter
+4.3 - Noise</a>) reviewed the use of zoning elements as well as unit design
+specifications as it assessed elements required to abate projected noise
+increases.  These included the use of setbacks,
+barriers, berms, and also site design to reduce the effects of incompatible
+uses. The plan notes that buildings can be placed upon a site to shield other
+structures and reduce noise level caused by reflections—for example, carports
+or garages—or residential units placed to shield one another can be useful
+reduction measures close to transportation infrastructure. The plan also notes
+that site design should review options to use a commercial or storage zoning
+category between a noise source and a sensitive use area.   
+Solana County also discussed the potential effects from freight rail activity and air
+transport activity in the Transportation Chapter (<a
+href="http://solanocountygeneralplan.net/GP%20Documents/12-15-08/Chapter_7%20-%20Transportation%20&%20Circulation.pdf">Chapter
+7</a>) of the General Plan.</p>
+
+<p>The Cities of Portland OR, San Francisco CA, and Madison
+WI also have comprehensive plans that discuss freight in a critical manner and
+set out objectives and goals to achieve better freight land use
+coordination.   New York has had a waterfront development
+plan in place for over twenty years that also provides a good conceptual view
+of how marine and port activities fit into the city’s economic base.  Selected best practice items
+from within these documents are listed below. </p>
+
+<h2>Best Practice Comprehensive Planning</h2>
+<ul>
+  <li><a href="/factsheets/pdf/RailServicesComprehensivePlanSolana.pdf">Rail Services, Solana County, California</a></li>
+  <li><a href="/factsheets/pdf/EconomicDevelopmentComprehensivePlanPortland.pdf">Economic Development, Portland, Oregon</a></li>
+  <li><a href="/factsheets/pdf/TransportationComprehensivePlanPortland.pdf">Transportation, Portland, Oregon</a></li>
+  <li><a href="http://www.sf-planning.org/ftp/General_Plan/I2_Commerce_and_Industry.htm">San Francisco, California, General Plan</a></li>
+  <li><a href="/factsheets/pdf/ComprehensivePlanMadison.pdf">Madison, Wisconsin</a></li>
+</ul>
+
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

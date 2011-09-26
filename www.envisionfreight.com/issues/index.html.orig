@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Issues
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <div id="quote" style="color:white;background-color:#919FAA;padding:15px; 5px;">
+        <p>"...if you wear it, eat it, drink it, drive it, or talk or text on it, it came by freight..."</p>
+        <p style="text-align:right;">&mdash;Les Findeisen, Legislative Affairs Director for the Texas Trucking Association</p>
+      </div>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+      <h1>Freight Land Use Conflicts</h1>
+        <p>Any time that competing (and often, incompatible) land uses exist in proximity to one another there is the likelihood of these uses somehow interfering with each other.  This concept is closely tied to the economic concept of externality, where one individualâ€™s actions inflict costs (either monetary costs, physical costs, or emotional costs) on others.</p>
+        <p>Among the <a href="/issues/pdf/Conflicts_and_Barriers.pdf">major conflicts with non-freight interests</a> (e.g., residential or commercial developments) have with freight operations are:</p>
+        <ul>
+        <li>Air pollution</li>
+        <li>Light pollution</li>
+        <li>Noise pollution</li>
+        <li>Effects of vibration</li>
+        <li>Safety issues</li>
+        <li>Congestion</li>
+        </ul>
+
+        <p>Some conflicts, such as noise, light, and vibration are common to all of the primary freight modes.  Other conflicts are more specific to particular modes.  For example, the potential for dangerous trespass tends to be specific to railroads.</p>  
+        <p>From the perspective of freight interests, <a href="/issues/pdf/Conflicts_and_Barriers.pdf">barriers to the efficient operation of freight activities</a> in many ways are the corollary of conflicting land uses.  Examples of barriers include:</p>
+        <ul>
+        <li>Speed restrictions</li>
+        <li>Limitations on hours of operation</li>  
+        <li>Height and clearance impacts</li> 
+        <li>Size and weight limitations</li> 
+        <li>Corridor design impacts</li> 
+        <li>Difficulty of dredging operations and disposal of dredged material</li>  
+        </ul>
+
+        <p>Some of these barriers can be mode-specific (e.g., highway and road design impacts 
+        on trucking activities or dredging impacts on waterway transportation), while other 
+        barriers may be more general across modes (e.g., limitations on hours of operation).  
+        Barriers not only affect freight activities along particular corridors and facilities, 
+        but they may also affect route choices and the ability to access freight and 
+        manufacturing facilities.  For example, if particular roads are designed with turning 
+        radii that are too tight, particular types of trucks may not be able to use these 
+        routes or access facilities that use these roads.</p>
+        
+        <p>Resolution of conflicting land uses and minimization of barriers to the efficient
+        provision of freight transportation yield significant benefits to both producers and
+        consumers. The sources of encroachment of freight facilities are corridors have been 
+        summarized in a series of <a href="/issues/pdf/Conflicts_and_Barriers_Matrix.pdf">
+        Conflicts and Barriers Matrices</a>. The research conducted for NCRRP 24 also produced
+        a series of case studies to illustrate many of these issues.
+        <a href="/issues/pdf/Intro_and_Lessons_Learned.pdf">Issues were identified
+        during the review of these case studies</a>:</p>
+        <ul>
+        <li><a href="/issues/pdf/Task_6_Case_Study_SIRR.pdf">Staten Island Railroad</a></li>
+        <li><a href="/issues/pdf/MIZOD_case_study.pdf">Baltimore Maritime Industrial Zoning Overlay District</a></li>
+        <li><a href="/issues/pdf/Task_6_Case_Study_Guilds_Lake.pdf">Guild's Lake Industrial Sanctuary</a></li>
+        <li><a href="/issues/pdf/Joliet_Austell.pdf">Experiences with the Relocation of Intermodal Facilities</a></li>
+        <li><a href="/issues/pdf/ARC_Freight_Plan_case_study.pdf">Atlanta Regional Freight Mobility Plan</a></li>
+        </ul>
+
+
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>

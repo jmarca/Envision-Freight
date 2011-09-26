@@ -1,0 +1,144 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Envision Freight - Tools: Mitigation
+</title><link title="Envision Freight Website Style" href="/envisionfreight.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/analytics.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+
+    
+  <!-- This is the header, which includes the Envision Freight Logo and nav buttons. -->
+  <div id="header">
+
+    <a href="/"><img id="logo" align="left" src="/images/envision_freight.gif" alt="Envision Freight Logo"/></a>
+
+    <!-- The navigation stripe for every page.  Heavily influenced by css.  These get ordered from right to left!-->
+    <div id="nav">
+      <ul>
+        <li><a href="/about.aspx">About</a></li>
+        <li><a href="/contact.aspx">Contact</a></li>
+        <li><a href="/presentations.aspx">Presentations</a></li>
+      </ul>
+    </div>
+
+  </div>
+  
+  <div style="clear:both;height:8px;background-color:#919FAA;margin:5px 0px;"></div>
+
+
+  <div id="middle">
+                
+    
+    <!--This is the menu bar that goes down the left side of the page-->
+    <div id="leftmenu">
+      <a href="/">
+        <h1>Home</h1>
+      </a>
+      <a href="/value/">
+        <h1>The Value of Freight</h1>
+      </a>
+      <a href="/modes/">
+        <h1>Freight Modes</h1>
+      </a>
+      <a href="/issues/">
+        <h1>Land Use Conflicts</h1>
+      </a>
+      <a href="/tools/">
+        <h1>Tools</h1>
+      </a>
+      <a href="/tools/default.aspx?id=planning">
+        <h2>Long-Range Planning</h2>
+      </a>
+      <a href="/tools/default.aspx?id=zoning">
+        <h2>Zoning and Design</h2>
+      </a>
+      <a href="/tools/default.aspx?id=mitigation">
+        <h2>Mitigation</h2>
+      </a>
+      <a href="/tools/default.aspx?id=education">
+        <h2>Education and Outreach</h2>
+      </a>
+    </div>
+
+
+    <!--The main content of each page gets put in this section-->
+    <div id="content">
+    
+      <h1><a href="/tools/default.aspx">Tools</a>: Mitigation</h1>
+      
+      <p>The negative effects of freight operations on nearby land uses include nuisance, health and safety issues such as air and water pollution, noise, vibration, and light impacts.  There are a number of mitigation tools that can be utilized to: (i) reduce the effects of being close to freight facilities and corridors; and (ii) improve development activity (especially for sensitive land uses) to reduce the potential for conflicts to arise. </p>
+<p>Mode-specific mitigation activities include:</p>
+<ul>
+<li>Research conducted to reduce and mitigate for the effects of noise around airports.  The Federal Aviation Administration has also spent considerable time and money on mitigation programs including: property relocation and purchase, and sound insulation. Many of the major airport websites provide information on these programs (such as the Federal Aviation Regulations "Part 161" noise studies) and are a useful starting point to begin developing any type of noise mitigation program.  Examples of airport mitigation programs include:</li><p>  
+<ul><li><a href="/factsheets/?id=airport_noise">Noise mitigation programs</a></li>
+<li><a href="/factsheets/?id=airport_noise">Relocation</a></li>
+<li><a href="/tools/pdf/OHare_Community_Noise_Resource_Center.pdf">Community noise roundtables</a>
+</ul>
+<p>
+<li>Deepwater marine ports have been actively developing programs to reduce environmental impacts and improve air quality, and they are another good source of information that the user can turn to.  For example, the Port of Los Angeles has developed a Community Advisory Committee with subcommittees on various issues including air quality, noise, light and traffic.  The Port Authority of New York and New Jersey has developed a Clean Air Strategy to reduce the ports polluting activity and its impact on the surrounding neighborhoods.  Examples of port mitigation programs include:</p>   
+<ul><li><a href="http://www.portoflosangeles.org/community/pcac.asp">Community roundtables</a></li>
+<li><a href="http://www.panynj.gov/about/port-initiatives.html">Port environmental initiatives</a>
+<li><a href="/factsheets/?id=dredging">Dredging</a></li>
+<li>Gate restrictions
+<li><a href="http://www.tampabayfreight.com/pdfs/Corridor-Guidelines/2009-3.pdf">Trucking routing initiatives</a></li>
+</ul>
+<p>
+<li>Railroads have been involved in efforts to reduce the noise and vibration effects of their operations.  There have also been efforts by the industry to promote safety and awareness, particularly related to grade crossings.   Examples of railroad mitigation programs include:
+<p>
+<ul>
+<li><a href="/tools/pdf/Quiet_Zones.pdf">Quiet zones</a></li>
+<li><a href="/factsheets/?id=railroad_crossings">Grade crossing management</a></li>
+<li>Track modification</li>
+<li><a href="/tools/pdf/Trespass_on_Railroads.pdf">Trespass prevention programs</a></li>
+<li><a href="http://www.oli.org/">Operation Lifesaver</a></li>
+<li><a href="/factsheets/?id=proximityissues">Canada Proximity website</a></li>
+<li><a href="http://www.arb.ca.gov/planning/gmerp/gmerp.htm">California Air Resources Board emission plans</a></li>
+</ul>
+</ul>
+<p>In addition to these mode-specific approaches, other tools are commonly used to mitigate or minimize conflicts between freight and other types of land uses including:
+</p>
+<ul>
+<li>Zoning, buffering and design elements 
+<ul>
+<li><a href="/tools/pdf/Lot_Development_and_Site_Design.pdf">Lot design</a></li>
+<li><a href="/factsheets/?id=construction">Construction management</a> (<a href="/tools/pdf/Construction_Requirements_Examples.pdf">Examples)</a></li>
+<li><a href="/tools/pdf/Sound_Walls.pdf">Sound Walls</a></li>
+<li><a href="/tools/pdf/CN-CP_Guidelines.pdf">Canadian National/Canadian Pacific land use guidelines</a></li>
+</ul>
+<p>
+<li>Hazardous materials considerations
+<ul>
+<li><a href="/tools/pdf/Hazardous_Materials.pdf">Movement regulations</a></li>
+<li><a href="/tools/pdf/Siting_Hazardous_Commercial_Facilities.pdf">Siting of facilities</a></li>
+</ul>
+</p>
+          
+    </div>
+    <div style="clear:both"></div>
+      
+  </div>
+  
+      <!-- The footer for every page. -->
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+    </div>
+
+    <!-- The footer for every page.
+    <div id="footer">
+      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+       <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
+       Grow &amp; Bruening, P.C.</p>
+    </div>
+     -->
+  
+</div>
+
+</body>
+</html>
