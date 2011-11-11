@@ -119,12 +119,12 @@
   
       <!-- The footer for every page. -->
     <div id="footer">
-      <p>&copy;2010 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
+      <p>&copy;2011 <a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board of the National Academies</a></p>
     </div>
 
     <!-- The footer for every page.
     <div id="footer">
-      <p>&copy;2010 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
+      <p>&copy;2011 <a href="http://www.lrca.com/">Laurits R. Christensen Associates, Inc.</a>,<br>
        <a href="http://www.utexas.edu/research/ctr/">University of Texas Center for Transportation Research</a>, and<br>
        Grow &amp; Bruening, P.C.</p>
     </div>
